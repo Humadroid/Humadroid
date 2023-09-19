@@ -71,3 +71,12 @@ using `@angular/cli` by running `ng g c Angular`** 👄
   [10]: https://www.linkedin.com/in/i-am-souravdutta/
   [11]: https://stackoverflow.com/users/story/3937794
   [12]: https://www.amazon.in/hz/wishlist/ls/3C63PVGVYI9I4?ref_=wl_share
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humadroid/humadroid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humadroid/humadroid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/humadroid/humadroid/output/github-contribution-grid-snake.svg">
+</picture>
+
+
